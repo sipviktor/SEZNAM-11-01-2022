@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    align-items: center;
+}
+
+body{
+    background-color: rgb(90, 81, 81);
+}
+
+#shop{
+    align-items: center;
+    padding-left: 45%;
+}
+
+#shop-list{
+    background-color: white;
+    width: 25%;
+    height: 25%;
+}
